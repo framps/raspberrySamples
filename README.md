@@ -4,7 +4,7 @@
 
 ## raspiTrafficLight.py
 
-This code simulates a traffic light by using 6 LEDs managed by GPIO and by using Python threading. 
+This code simulates a traffic light by using 6 LEDs connected via a breadboard to the GPIOs and by using Python threading. See [following demo video](http://www.linux-tips-and-tricks.de/raspiTrafficLight.mp4).
 
 See http://www.linux-tips-and-tricks.de/en/raspberry/464-raspberry-pi-trafficlight-sample-program-written-in-python-with-threading/ for a detailed description about the sample program and a small video demo
 

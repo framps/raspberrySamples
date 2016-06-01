@@ -22,6 +22,7 @@
 #	Auf http://www.linux-tips-and-tricks.de/de/raspberry/463-raspberry-pi-ampelsteuerungsbeispielprogramm-in-python-mit-threading/
 # 	findet sich eine genauere Beschreibung der Programmlogik sowie ein Demovideo.
 #
+# 	The sample program runs in an endless loop and starts with a LED test sequence followed by three different traffic light implementations which are separated by an out of service phase.
 
 import RPi.GPIO as GPIO
 import time
